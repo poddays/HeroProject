@@ -1,0 +1,29 @@
+.card-container{
+    height: 400px;
+    width: 280px;
+    box-shadow: 2px 1px 20px rgb(176, 176, 176);
+}
+.content{
+    margin: 20px;
+}
+
+img{
+    width: 100%;
+}
+
+.ability{
+margin-top: 30px;
+}
+.ability-list{
+    display: flex;
+    flex-direction: column;
+   
+}
+
+ul{
+    margin: 4px 0;
+  }
+
+  h4{
+      text-decoration: underline;
+  }
